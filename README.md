@@ -3,7 +3,7 @@ This project includes the slide and the COMSOL code for the tutorial session in 
 
 <figure>
     <p align="center">
-        <img src="https://github.com/tkn-tub/SIM/blob/main/figures/first_slide.png?raw=true" alt="nn" width="400">
+        <img src="https://github.com/jorge-torresgomez/Tutorial_NanoCom_2026_Microfluidics/blob/main/figures/first_slide.png?raw=true" alt="nn" width="400">
     </p>
 </figure>
 Fig. 1: Pulse of NaOH traveling in a water flow.
@@ -30,7 +30,7 @@ This design is the basis to implement the animation in the figure below.
 
 <figure>
     <p align="center">
-        <img src="https://github.com/tkn-tub/SIM/blob/main/figures/pipes.gif?raw=true" alt="nn" width="400">
+        <img src="https://github.com/jorge-torresgomez/Tutorial_NanoCom_2026_Microfluidics/blob/main/figures/pipes.gif?raw=true" alt="nn" width="400">
     </p>
 </figure>
 <p align="center">
