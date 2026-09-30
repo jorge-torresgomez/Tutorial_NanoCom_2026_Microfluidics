@@ -1,9 +1,10 @@
-# Tutorial on AI in the molecular domain
-This project includes the slide and the COMSOL code for the tutorial session in AI in the molecular domain that took place at the ACM NanoCom 2026 conference.
+# Videos for the Tutorial on AI in the molecular domain
+In this folder we include the videos as links to Youtube of the tutorial session.
 
 <figure>
     <p align="center">
-        <a href="https://youtu.be/20v8WK56Wfc">
+    Part I: Motivation
+        <a href="https://youtu.be/wBgm5pxkbXQ">
             <img
                 src="https://github.com/jorge-torresgomez/Tutorial_NanoCom_2026_Microfluidics/blob/main/figures/first_slide.png?raw=true"
                 alt="Watch the NanoCom 2026 tutorial promotional video"
@@ -18,10 +19,9 @@ This project includes the slide and the COMSOL code for the tutorial session in 
 
 
 ## Description
-This project includes the slides and the COMSOL code for the Tutorial "Artificial Intelligence in Microfluidic Circuits: From Theory to Hands-On Design" that was part of the ACM NanoCom 2026 Conference at St. John's, Canada, in Sept. 2026.
-The tutorial addressed the computational capabilities to develop neural network (NN) architectures in the molecular.
-We target two different technologies by using microfluidic circuits for feedforward NN architectures, and free-diffusion systems for recurrent architectures with reservoir computing.
- 
+This project includes the slides and the COMSOL code to implement a single neuron operation of microfluidic pipes.
+Properties of the transport of diluted species are interpreted to implement the multiplication by coeficient and the addition of various branches.
+This tutorial was part of the ACM NanoCom 2026 conference in St. John's, Canada, in Sept. 2026.
 
 ## Folders
 
@@ -30,7 +30,7 @@ This project directly comprises two folders, one for the slides and one for the 
 📁 [slides/](https://github.com/jorge-torresgomez/Tutorial_NanoCom_2026_Microfluidics/tree/main/slides/): Includes the slides of the three components of the session.
 The first component is related to analyse and implement a neuron with microfluidic pipes.
 The second component is related to the fabrication of microfluidic circuits.
-The third component relates to the reservoir computing, as a recurrent architecture.
+The third component relates to the reservoir computing, as a recurrent architecture on AI.
 
 📁 [code/](https://github.com/jorge-torresgomez/Tutorial_NanoCom_2026_Microfluidics/tree/main/COMSOL):  This folder includes the COMSOL simulation in cilindrical pipe of NaOH molecules in water.
 The step-by-step guide to build this desing from scratch is accessible on the slides [at this link](https://github.com/jorge-torresgomez/Tutorial_NanoCom_2026_Microfluidics/blob/main/slides/COMSOL_slides.pdf).
@@ -53,7 +53,7 @@ This project was supported in part by the Federal Ministry of Education and Rese
 
 ## Contact Information
 
-- **Jorge Torres Gómez**
+- **Name:** Jorge Torres Gómez
 
     [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)](https://github.com/jorge-torresgomez)
 
@@ -63,20 +63,8 @@ This project was supported in part by the Federal Ministry of Education and Rese
 
     [![Website Badge](https://img.shields.io/badge/Website-Homepage-blue?logo=web)](https://www.tkn.tu-berlin.de/team/torres-gomez/)
 
-- **Volkan Can** 
+- **Name:** Volkan Can
 
-    [![Email](https://img.shields.io/badge/Email-volkan.can@yeditepe.edu.tr-D14836?logo=gmail&logoColor=white)](mailto:volkan.can@yeditepe.edu.tr)
+- **Name:** Murat Kusçu
 
-    [![Website Badge](https://img.shields.io/badge/Website-Homepage-blue?logo=web)](https://yeditepe.edu.tr/en/academic-staff/3120/)
-
-- **Murat Kusçu** 
-
-    [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)](https://github.com/mkuscu/)
-
-    [![Website Badge](https://img.shields.io/badge/Website-Homepage-blue?logo=web)](https://mysite.ku.edu.tr/mkuscu/)
-
-- **Cansu Canbek**
-
-    [![Email](https://img.shields.io/badge/Email-cansu.canbek@yeditepe.edu.tr-D14836?logo=gmail&logoColor=white)](mailto:cansu.canbek@yeditepe.edu.tr)
-
-    [![Website Badge](https://img.shields.io/badge/Website-Homepage-blue?logo=web)](https://yeditepe.edu.tr/tr/akademik-kadro/648)
+- **Name:** Cansu Canbek
