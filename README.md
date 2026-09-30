@@ -32,6 +32,8 @@ The first component is related to analyse and implement a neuron with microfluid
 The second component is related to the fabrication of microfluidic circuits.
 The third component relates to the reservoir computing, as a recurrent architecture.
 
+📁 [videos/](https://github.com/jorge-torresgomez/Tutorial_NanoCom_2026_Microfluidics/tree/main/videos):  This folder includes the videos for the slides with their links to reproduce in Youtube.
+
 📁 [code/](https://github.com/jorge-torresgomez/Tutorial_NanoCom_2026_Microfluidics/tree/main/COMSOL):  This folder includes the COMSOL simulation in cilindrical pipe of NaOH molecules in water.
 The step-by-step guide to build this desing from scratch is accessible on the slides [at this link](https://github.com/jorge-torresgomez/Tutorial_NanoCom_2026_Microfluidics/blob/main/slides/COMSOL_slides.pdf).
 This design is the basis to implement the animation in the figure below.
