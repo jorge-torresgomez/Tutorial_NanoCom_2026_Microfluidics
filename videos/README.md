@@ -2,8 +2,8 @@
 In this folder we include the videos as links to Youtube of the tutorial session.
 
 <figure>
+Part I: Motivation
     <p align="center">
-    Part I: Motivation
         <a href="https://youtu.be/wBgm5pxkbXQ">
             <img
                 src="https://github.com/jorge-torresgomez/Tutorial_NanoCom_2026_Microfluidics/blob/main/figures/first_slide.png?raw=true"
