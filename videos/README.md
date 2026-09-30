@@ -1,6 +1,8 @@
 # Videos for the Tutorial on AI in the molecular domain
 In this folder we include the videos as links to Youtube of the tutorial session.
 
+## Part I
+
 <figure>
 Part I: Motivation
     <p align="center">
@@ -17,32 +19,20 @@ Part I: Motivation
     <em>Click the image to watch the promotional video in youtube.</em>
 </p>
 
-
-## Description
-This project includes the slides and the COMSOL code to implement a single neuron operation of microfluidic pipes.
-Properties of the transport of diluted species are interpreted to implement the multiplication by coeficient and the addition of various branches.
-This tutorial was part of the ACM NanoCom 2026 conference in St. John's, Canada, in Sept. 2026.
-
-## Folders
-
-This project directly comprises two folders, one for the slides and one for the COMSOL code as:
-
-📁 [slides/](https://github.com/jorge-torresgomez/Tutorial_NanoCom_2026_Microfluidics/tree/main/slides/): Includes the slides of the three components of the session.
-The first component is related to analyse and implement a neuron with microfluidic pipes.
-The second component is related to the fabrication of microfluidic circuits.
-The third component relates to the reservoir computing, as a recurrent architecture on AI.
-
-📁 [code/](https://github.com/jorge-torresgomez/Tutorial_NanoCom_2026_Microfluidics/tree/main/COMSOL):  This folder includes the COMSOL simulation in cilindrical pipe of NaOH molecules in water.
-The step-by-step guide to build this desing from scratch is accessible on the slides [at this link](https://github.com/jorge-torresgomez/Tutorial_NanoCom_2026_Microfluidics/blob/main/slides/COMSOL_slides.pdf).
-This design is the basis to implement the animation in the figure below.
-
 <figure>
+Part I: Analytics
     <p align="center">
-        <img src="https://github.com/jorge-torresgomez/Tutorial_NanoCom_2026_Microfluidics/blob/main/figures/pipes.gif?raw=true" alt="nn" width="400">
+        <a href="https://youtu.be/66X8X80bWRc">
+            <img
+                src="https://github.com/jorge-torresgomez/Tutorial_NanoCom_2026_Microfluidics/blob/main/figures/Jorge_Part_II_Analytics_first_slide.png?raw=true"
+                alt="Watch the NanoCom 2026 tutorial promotional video"
+                width="400">
+        </a>
     </p>
 </figure>
-Fig. 1: Pulse of NaOH traveling in a water flow.
+
 <p align="center">
+    <em>Click the image to watch the promotional video in youtube.</em>
 </p>
 
 ## License
