@@ -3,12 +3,19 @@ This project includes the slide and the COMSOL code for the tutorial session in 
 
 <figure>
     <p align="center">
-        <img src="https://github.com/jorge-torresgomez/Tutorial_NanoCom_2026_Microfluidics/blob/main/figures/first_slide.png?raw=true" alt="nn" width="400">
+        <a href="https://youtu.be/20v8WK56Wfc">
+            <img
+                src="https://github.com/jorge-torresgomez/Tutorial_NanoCom_2026_Microfluidics/blob/main/figures/first_slide.png?raw=true"
+                alt="Watch the NanoCom 2026 tutorial promotional video"
+                width="400">
+        </a>
     </p>
 </figure>
-Fig. 1: Pulse of NaOH traveling in a water flow.
+
 <p align="center">
+    <em>Click the image to watch the promotional video in youtube.</em>
 </p>
+
 
 ## Description
 This project includes the slides and the COMSOL code to implement a single neuron operation of microfluidic pipes.
@@ -33,6 +40,7 @@ This design is the basis to implement the animation in the figure below.
         <img src="https://github.com/jorge-torresgomez/Tutorial_NanoCom_2026_Microfluidics/blob/main/figures/pipes.gif?raw=true" alt="nn" width="400">
     </p>
 </figure>
+Fig. 1: Pulse of NaOH traveling in a water flow.
 <p align="center">
 </p>
 
