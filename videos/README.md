@@ -1,7 +1,7 @@
 # Videos for the Tutorial on AI in the molecular domain
 In this folder we include the videos as links to Youtube of the tutorial session.
 
-## Part I
+## Part I: NN in Microfluidic Circuits
 
 <figure>
 Part I: Motivation
@@ -21,6 +21,40 @@ Part I: Motivation
 
 <figure>
 Part I: Analytics
+    <p align="center">
+        <a href="https://youtu.be/66X8X80bWRc">
+            <img
+                src="https://github.com/jorge-torresgomez/Tutorial_NanoCom_2026_Microfluidics/blob/main/figures/Jorge_Part_II_Analytics_first_slide.png?raw=true"
+                alt="Watch the NanoCom 2026 tutorial promotional video"
+                width="400">
+        </a>
+    </p>
+</figure>
+
+<p align="center">
+    <em>Click the image to watch the promotional video in youtube.</em>
+</p>
+
+<figure>
+Part I: COMSOL simulation
+    <p align="center">
+        <a href="https://youtu.be/efWAK28uhyI">
+            <img
+                src="https://github.com/jorge-torresgomez/Tutorial_NanoCom_2026_Microfluidics/blob/main/figures/Jorge_Part_III_COMSOL_first_slide.png?raw=true"
+                alt="Watch the NanoCom 2026 tutorial promotional video"
+                width="400">
+        </a>
+    </p>
+</figure>
+
+<p align="center">
+    <em>Click the image to watch the promotional video in youtube.</em>
+</p>
+
+## Part III: Reservoir Computing
+
+<figure>
+Part I: COMSOL simulation
     <p align="center">
         <a href="https://youtu.be/66X8X80bWRc">
             <img
