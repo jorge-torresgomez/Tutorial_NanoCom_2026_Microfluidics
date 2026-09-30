@@ -34,7 +34,7 @@ Part I: Analytics
 <p align="center">
     <em>Click the image to watch the promotional video in youtube.</em>
 </p>
-
+ 
 <figure>
 Part I: COMSOL simulation
     <p align="center">
@@ -54,12 +54,11 @@ Part I: COMSOL simulation
 ## Part III: Reservoir Computing
 
 <figure>
-Part I: COMSOL simulation
     <p align="center">
-        <a href="https://youtu.be/66X8X80bWRc">
+        <a href="https://youtu.be/efWAK28uhyI">
             <img
-                src="https://github.com/jorge-torresgomez/Tutorial_NanoCom_2026_Microfluidics/blob/main/figures/Jorge_Part_II_Analytics_first_slide.png?raw=true"
-                alt="Watch the NanoCom 2026 tutorial promotional video"
+                src="https://github.com/jorge-torresgomez/Tutorial_NanoCom_2026_Microfluidics/blob/main/figures/Part_III_ Kuscu_NanoCom2026_PRC_first_slide.png?raw=true"
+                alt="Watch the NanoCom 2026 tutorial video"
                 width="400">
         </a>
     </p>
